@@ -27,13 +27,13 @@ class ViewController: UIViewController
     func sortingTheArray(array: [Int])
     {
         var secondSmallestValue = 0
-        var sorted = array.sorted()
+        var sortedNumberArray = array.sorted()
         
-        print(sorted)
+        print(sortedNumberArray)
         
-        for number in sorted
+        for number in sortedNumberArray
         {
-            secondSmallestValue = sorted[1]
+            secondSmallestValue = sortedNumberArray[1]
         }
         print(secondSmallestValue)
     }
