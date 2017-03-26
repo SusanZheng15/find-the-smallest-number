@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  find the smallest number
 //
-//  Created by Flatiron School on 3/8/17.
+//  Created by Susan Zheng on 3/8/17.
 //  Copyright © 2017 Susan Zheng. All rights reserved.
 //
 
